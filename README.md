@@ -389,7 +389,7 @@ Sept 1991 - 1997
 
   Computer Vision and Pattern Recognition (**CVPR**), 2020
   
-  [[PDF](https://arxiv.org/pdf/2003.05653.pdf)] [[arXiv](https://arxiv.org/abs/2003.05653)]
+  [[PDF](https://arxiv.org/pdf/2003.05653.pdf)] [[arXiv](https://arxiv.org/abs/2003.05653)][[Github](https://github.com/yiyuan1991/3D-Face-GCNs)]
 
 </ProjectCard>
 
@@ -401,6 +401,8 @@ Sept 1991 - 1997
 
   the Association for the Advance of Artificial Intelligence (**AAAI**), 2020
 
+  [[PDF](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ShiT.147.pdf)][[Github](https://github.com/yiyuan1991/Face-to-Parameter-V2)]
+
 </ProjectCard>
 
 <ProjectCard image="/projects/6.jpg" hideBorder=true>
@@ -410,6 +412,8 @@ Sept 1991 - 1997
   Hao Zhang, Mengmeng Wang, Yong Liu, Yi Yuan
 
   the Association for the Advance of Artificial Intelligence (**AAAI**), 2020
+
+  [[PDF](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangH.825.pdf)]
 
 </ProjectCard>
 
@@ -421,7 +425,7 @@ Sept 1991 - 1997
 
   International Conference on Computer Vision (**ICCV**), 2019
 
-  [[PDF](https://arxiv.org/pdf/1909.01064.pdf)] [[arxiv](https://arxiv.org/abs/1909.01064)]
+  [[PDF](https://arxiv.org/pdf/1909.01064.pdf)] [[arxiv](https://arxiv.org/abs/1909.01064)][[Github](https://github.com/yiyuan1991/Face-to-Parameter)]
 
 </ProjectCard>
 
@@ -433,7 +437,7 @@ Sept 1991 - 1997
 
   ACM Transactions on Graphics (**SIGGRAPH**), 2019 (**Oral**)
 
-  [[PDF](https://nos.netease.com/mg-file/mg/neteasegamecampus/art_works/20190624/201906242016238583.pdf)] [[Data](http://fuxi.163.com/thesis/neuro.html)] 
+  [[PDF](https://nos.netease.com/mg-file/mg/neteasegamecampus/art_works/20190624/201906242016238583.pdf)] [[Data](http://fuxi.163.com/en/thesis/NeuroSkinning.html)] [[Github](https://github.com/yiyuan1991/NeuroSkinning)]
 
 </ProjectCard>
 
