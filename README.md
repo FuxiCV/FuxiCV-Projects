@@ -1,23 +1,6 @@
 # FuxiCV-Projects
  
----
-pageClass: home-page
-# some data for the components
-
-name: Fuxi CV
-profile: /fuxi.png
-
-socials:
-  - title: email
-    icon: "/icons/email.svg"
-    link: 'mailto:yyshawn@163.com'
-
-# cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Computer Vision Group at Netease Fuxi AI Lab
-# email: yyshawn (at) 163 (dot) com
----
-
-<ProfileSection :frontmatter="$page.frontmatter" />
+yyshawn (at) 163 (dot) com
 
 ## About
 
@@ -458,48 +441,3 @@ Sept 1991 - 1997
 - [九游：《逆水寒》AI智能捏脸及双脸融合功能系统上线](http://www.9game.cn/news/2696879.html)
 - [机器之心：只需一张自拍，网易伏羲用这种方法直接生成「个人专属」游戏角色](https://www.jiqizhixin.com/articles/2019-09-09-18)
 - [机器之心：人工智能改变游戏未来？网易伏羲AI Lab展示游戏开发黑科技](https://www.jiqizhixin.com/articles/2019-05-22-14)
-
-
-<!-- Custom style for this page -->
-
-<style lang="stylus">
-
-.theme-container.home-page .page
-  font-size 14px
-  font-family "lucida grande", "lucida sans unicode", lucida, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  p
-    margin 0 0 0.5rem
-  p, ul, ol
-    line-height normal
-  a
-    font-weight normal
-  .theme-default-content:not(.custom) > h2
-    margin-bottom 0.5rem
-  .theme-default-content:not(.custom) > h2:first-child + p
-    margin-top 0.5rem
-  .theme-default-content:not(.custom) > h3
-    padding-top 4rem
-
-  /* Override */
-  .md-card
-    margin-top 0.5em
-    .card-image
-      padding 0.2rem
-      img
-        max-width 120px
-        max-height 120px
-    .card-content p
-      -webkit-margin-after 0.2em
-
-@media (max-width: 419px)
-  .theme-container.home-page .page
-    p, ul, ol
-      line-height 1.5
-
-    .md-card
-      .card-image
-        img 
-          width 100%
-          max-width 400px
-
-</style>
